@@ -1,0 +1,47 @@
+{
+  "title": "Salesforce \u00b7 Visualforce \u2192 LWC",
+  "upstream": "https://github.com/trailheadapps/visualforce-to-lwc",
+  "upstream_commit": "81001b70214843d1c10546b1a4c26a30c0412d1f",
+  "tags": [
+    "Salesforce",
+    "Visualforce",
+    "LWC",
+    "migration",
+    "older architecture"
+  ],
+  "environment": "salesforce-org",
+  "hosted_url": null,
+  "contextqa_run_verified": false,
+  "scenarios": [
+    {
+      "id": "salesforce-visualforce-01",
+      "title": "Select pair",
+      "assertion": "The selected Visualforce example and its LWC equivalent both load.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "salesforce-visualforce-02",
+      "title": "Same input",
+      "assertion": "Equivalent fixture input is entered on both implementations.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "salesforce-visualforce-03",
+      "title": "Same output",
+      "assertion": "The expected business result is consistent across the pair.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "salesforce-visualforce-04",
+      "title": "Validation parity",
+      "assertion": "The chosen invalid input produces the specified feedback on both.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "salesforce-visualforce-05",
+      "title": "Migration regression",
+      "assertion": "A disclosed change in one isolated variant is detected by the same business assertion.",
+      "status": "exercise-not-executed"
+    }
+  ]
+}

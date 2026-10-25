@@ -1,3 +1,11 @@
+# ContextQA Testing Lab — Salesforce · Visualforce → LWC
+
+[Start the exercises](lab/README.md) · [Scenario checklist](lab/scenarios.json) · [Stack/platform catalog](https://github.com/contextqaai/testing-lab)
+
+Source available; hosted sessions and ContextQA execution results are not verified. Original project: [trailheadapps/visualforce-to-lwc](https://github.com/trailheadapps/visualforce-to-lwc). Upstream attribution/license remain in this repository. No upstream endorsement is implied.
+
+## Upstream project documentation
+
 # Visualforce to LWC
 
 [![CI Workflow](https://github.com/trailheadapps/visualforce-to-lwc/workflows/CI/badge.svg)](https://github.com/trailheadapps/visualforce-to-lwc/actions?query=workflow%3ACI) [![Packaging Workflow](https://github.com/trailheadapps/visualforce-to-lwc/workflows/Packaging/badge.svg)](https://github.com/trailheadapps/visualforce-to-lwc/actions?query=workflow%3APackaging) [![codecov](https://codecov.io/gh/trailheadapps/visualforce-to-lwc/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/visualforce-to-lwc)
